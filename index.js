@@ -12,7 +12,7 @@ export const getNepaliNumber = (n, d = false, c = "") => {
   return sNN;
 };
 
-export const getEnglishNumber = (n, d = false, c = "np") => {
+export const getEnglishNumber = (n, d = false, c = "") => {
   let sN = String(n);
   let sNN = "";
   if (!d) sN = sN.replace(/[^\०१२३४५६७८९.]/g, "");
