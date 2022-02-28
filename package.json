@@ -1,11 +1,11 @@
 {
   "name": "nep-num",
-  "version": "1.0.7",
+  "version": "1.0.6",
   "description": "generate nepali numbers from english numbers and vice versa",
   "main": "index.js",
   "private": false,
   "scripts": {
-    "publish": "npm version patch && npm publish"
+    "publish:npm": "npm version patch && npm publish"
   },
   "keywords": [
     "nepali numbers",
