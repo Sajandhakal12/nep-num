@@ -1,6 +1,6 @@
 {
   "name": "nep-num",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generate nepali numbers from english numbers and vice versa",
   "main": "index.js",
   "private": false,
