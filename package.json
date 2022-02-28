@@ -1,0 +1,18 @@
+{
+  "name": "nep-num",
+  "version": "1.0.0",
+  "description": "generate nepali numbers from english numbers and vice versa",
+  "main": "index.js",
+  "private": false,
+  "keywords": [
+    "nepali numbers",
+    "nepali",
+    "nepali number"
+  ],
+  "author": "Sajan Dhakal",
+  "license": "ISC",
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
